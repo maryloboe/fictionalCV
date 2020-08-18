@@ -1,0 +1,43 @@
+body {
+    background-color: AliceBlue;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: #E6E6EA;
+  }
+
+  h1 {
+    color: #FF8192;
+    font-family: 'Poppins', sans-serif;
+    font-variant: small-caps;
+    font-size: 50px;
+  }
+
+h3 {
+  color: #FF96A4;
+  font-family: 'Poppins', sans-serif;
+  font-variant: small-caps;
+  font-size: 25px;
+}
+
+a:link {
+  color: #6e6d6d;
+}
+
+a:visited {
+  color: #d8d3cd;
+}
+
+a:hover {
+  color: gold;
+}
+
+/***********IDs***********/
+
+#header-name {
+  font-size: 60px;
+}
